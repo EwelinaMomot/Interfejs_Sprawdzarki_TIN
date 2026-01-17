@@ -1,0 +1,1 @@
+# Interfejs_Sprawdzarki_TIN
