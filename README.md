@@ -48,7 +48,7 @@ Projekt został wykonany w celach edukacyjnych jako ćwiczenie pracy z nowoczesn
 
 ---
 ## 📁 Struktura projektu
-
+```
 src/
 ├─ main.ts # punkt wejścia aplikacji
 ├─ App.vue # główny komponent aplikacji
@@ -58,7 +58,7 @@ src/
 │ ├─ HomeView.vue # widok strony głównej
 │ ├─ StudentView.vue # widok danych studenta
 │ └─ RankingView.vue # widok rankingu
-
+```
 ---
 
 ## ▶️ Uruchomienie projektu lokalnie
